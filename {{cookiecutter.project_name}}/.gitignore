@@ -1,1 +1,3 @@
-/data
+#ignore data files
+/data/processed
+/data/raw
