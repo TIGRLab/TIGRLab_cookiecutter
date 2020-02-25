@@ -26,3 +26,20 @@ Project Organization
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment (if applicable)
 │
 ├── code/src           <- Source code for use in this project (virtual environments, bash scripts, etc)
+.
+├── code
+├── data
+│   ├── processed
+│   └── raw
+├── docs
+├── notebooks
+│   └── Rmd
+│       ├── index.Rmd
+│       ├── _output.yml
+│       ├── preamble.tex
+│       └── README.md
+├── README.md
+└── reports
+    └── figures
+
+9 directories, 5 files
