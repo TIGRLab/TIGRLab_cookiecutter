@@ -37,7 +37,7 @@ module load R/3.5.0 rstudio
 
 ```
 
-## make sure the current working directory is set to {{cookiecutter.project_name}}/notebooks/Rmd
+## make sure the current working directory is set to {{cookiecutter.folder_name}}/notebooks/Rmd
 This part of the script will remove any existing reports and overwrite them with new bookdown.
 
 

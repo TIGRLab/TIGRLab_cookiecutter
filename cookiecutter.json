@@ -2,7 +2,7 @@
   "full_name": "Tigrlab User",
   "email": "email@gmail.com",
   "project_name": "My Analysis Project",
-  "short_description": "Analysing TIGR roars",
-  "project_slug": "sample_proj",
+  "short_description": "Analysing TIGR roar waveforms",
+  "folder_name": "my_repo_and_folder",
   "github_username":"tigr_usr"
 }
