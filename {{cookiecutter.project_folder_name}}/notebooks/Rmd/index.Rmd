@@ -2,7 +2,7 @@
 title: "{{cookiecutter.project_name}} analyses"
 author: "{{cookiecutter.full_name}}"
 date: "`r Sys.Date()`"
-output: bookdown::pdf_book
+output: bookdown::gitbook
 github-repo: https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.folder_name}}
 description: "{{cookiecutter.short_description}}"
 fontsize: 10pt
