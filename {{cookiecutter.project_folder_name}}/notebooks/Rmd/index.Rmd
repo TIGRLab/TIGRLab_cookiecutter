@@ -3,7 +3,7 @@ title: "{{cookiecutter.project_name}} analyses"
 author: "{{cookiecutter.full_name}}"
 date: "`r Sys.Date()`"
 output: bookdown::gitbook
-github-repo: https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.folder_name}}
+github-repo: https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_folder_name}}
 description: "{{cookiecutter.short_description}}"
 fontsize: 10pt
 monofontoptions: "Scale=0.5"

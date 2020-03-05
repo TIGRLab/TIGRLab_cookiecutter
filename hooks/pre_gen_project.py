@@ -4,7 +4,7 @@ import sys
 
 MODULE_REGEX = r'^[-_a-zA-Z][-_a-zA-Z0-9]+$'
 
-module_name = '{{ cookiecutter.folder_name }}'
+module_name = '{{ cookiecutter.project_folder_name }}'
 
 if not re.match(MODULE_REGEX, module_name):
     print('ERROR: %s is not a valid name for a folder or git repo! No spaces or special characters allowed.' % module_name)

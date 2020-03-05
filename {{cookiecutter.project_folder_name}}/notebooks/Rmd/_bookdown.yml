@@ -1,4 +1,4 @@
-book_filename: "{{cookiecutter.folder_name}}_bookdown"
+book_filename: "{{cookiecutter.project_folder_name}}_bookdown"
 language:
   ui:
     chapter_name: "Chapter "
