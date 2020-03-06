@@ -20,7 +20,7 @@ This part of the script will remove any existing reports and overwrite them with
 
 ```sh
 rm -rf ../../reports/Rmd_rendered/*
-rm {{cookiecutter.folder_name}}_bookdown.*
+rm {{cookiecutter.project_folder_name}}_bookdown.*
 rm 0*.md
 ```
 Then open up rstudio and run this line :)
