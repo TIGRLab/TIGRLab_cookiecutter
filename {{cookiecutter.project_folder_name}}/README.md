@@ -5,6 +5,8 @@
 
 Created by {{cookiecutter.full_name}} {{cookiecutter.email}}
 
+**SEE STARTUP.MD FOR INSTRUCTIONS ON CREATING A GIT REPO**
+
 Project Organization
 -----------------------------------
 
@@ -16,7 +18,7 @@ Project Organization
     │   ├── processed      <- The final dataset (can include subfolders etc)
     │   └── raw            <- The original dataset, generally a link to minimally preprocessed data
     │
-    ├── notebooks          <- Jupyter/R notebooks for analysis workflow - Naming should begin with a number, followed by an underscore and a description (e.g. 01_compile_demographics.Rmd) 
+    ├── notebooks          <- Jupyter/R notebooks for analysis workflow - Naming should begin with a number, followed by an underscore and a description (e.g. 01_compile_demographics.Rmd)
     │
     ├── docs/references    <- Data dictionaries, manuals, and all other explanatory materials
     │
