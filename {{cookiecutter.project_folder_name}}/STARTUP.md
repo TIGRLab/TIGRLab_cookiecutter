@@ -8,7 +8,7 @@ On github
 Go to github.
 Log in to your account.
 Click the new repository button in the top-right.
-Type in the repository name, which is: {{cookicutter.project_folder_name}}
+Type in the repository name, which is: {{cookiecutter.project_folder_name}}
 Decide whether you want the repository to be public or private.
 Do _NOT_ select "initialize this repository with a readme"
 Click create repository
