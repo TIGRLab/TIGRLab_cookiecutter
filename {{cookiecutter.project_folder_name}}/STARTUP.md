@@ -22,6 +22,6 @@ Type:
 git init
 git add .
 git commit -m "first commit!"
-git remote add origin https://github.com/{{cookiecutter.github_username}}/{{cookicutter.project_folder_name}}
+git remote add origin https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_folder_name}}
 git push -u origin master
 ```
