@@ -46,7 +46,7 @@ Project Organization
     │
     ├── docs/references    <- Data dictionaries, manuals, and all other explanatory materials
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc. Summaries, tather than code.
+    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc. Summaries, rather than code.
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment (if applicable)
