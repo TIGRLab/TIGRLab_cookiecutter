@@ -12,7 +12,7 @@ These are collected into an bookdown book.
 To render the book:
 
 ```sh
-module load R/3.5.0 rstudio
+module load R/3.5.0 rstudio #or whatever version of R you use & have packages installed in
 ```
 
 ## make sure the current working directory is set to {{cookiecutter.project_folder_name}}/notebooks/Rmd
