@@ -8,4 +8,6 @@ rmd_files: [
   "index.Rmd",
   #INSERT LIST OF RMD FILES HERE!!
 ]
+download: no
+sharing: no
 output_dir: "../reports"
