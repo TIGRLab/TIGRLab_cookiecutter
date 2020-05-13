@@ -5,14 +5,14 @@ GNU nano 2.5.3                                              File: README.md     
 
 #note: you must update the file called  _bookdown.yml with a list of what to knit into the bookdown.
 
-# These notebooks contain a workflow for {{cookiecutter.project_name}}.
+# These notebooks contain a workflow for {{cookiecutter.project_title}}.
 
 These are collected into an bookdown book.
 
 To render the book:
 
 ```sh
-module load R/3.5.0 rstudio
+module load R/3.5.0 rstudio #or whatever version of R you use & have packages installed in
 ```
 
 ## make sure the current working directory is set to {{cookiecutter.project_folder_name}}/notebooks/Rmd
